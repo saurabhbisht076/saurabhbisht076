@@ -21,5 +21,5 @@ Web Technologies: HTML, CSS, React.js, Node.js, Express.js, Tailwind CSS
 
 Databases: MySQL, MongoDB
 
-Tools & Platforms: VS Code, Git, Windows, JWT
+Tools & Platforms: VS Code, Git, Windows, JWT, Postman
 
