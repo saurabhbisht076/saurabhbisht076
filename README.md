@@ -13,6 +13,8 @@ A MERN Stack Developer from India
 
 ⚡ Fun Fact: I love exploring new tech stacks and optimizing user experiences!
 
+ CONTACT ME: saurabhbisht076@gmail.com
+
 ## 🌐Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/svn6zero/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/saurabhbisht076) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://in.pinterest.com/bsaurabh482/) 
 
