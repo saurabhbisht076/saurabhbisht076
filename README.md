@@ -1,40 +1,179 @@
-# 💫About Me :
-Hi 👋, I'm Saurabh Bisht
-
-A MERN Stack Developer from India
-
-💫 About Me
-
-🔫 I'm currently working on Web Development Projects
-
-👯 I'm looking to collaborate on Web and Tech Projects
-
-🌱 Currently learning AI & ML and Security Practices
-
-⚡ Fun Fact: I love exploring new tech stacks and optimizing user experiences!
-
- CONTACT ME: saurabhbisht076@gmail.com
- 
- Portfolio: https://saurabh-portfolio-murex.vercel.app/
-
-## 🌐Socials
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/svn6zero/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/saurabhbisht076) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://in.pinterest.com/bsaurabh482/) 
-
-# 💻Tech Stack
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=plastic&logo=graphql&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=plastic&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=plastic&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white)
-# 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=saurabhbisht076&theme=onedark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=saurabhbisht076&theme=onedark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=saurabhbisht076&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆GitHub Trophies
-![](https://github-trophies.vercel.app/?username=saurabhbisht076&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### 🧑‍💻Random Cyber Quote
-![](https://github-readme-cyber-quotes.vercel.app/api?type=horizontal&theme=gruvbox)
-
-
-  ## 💰You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/saurabhbisht076) 
-
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=40&duration=4000&pause=1500&color=9370DB&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Saurabh+Bisht" alt="Typing SVG" />
   
+  <p align="center" style="font-size:1.2em;">
+    <em>MERN Stack Developer | Problem Solver | Tech Enthusiast</em>
+  </p>
+  
+  <br/>
+  
+  <a href="https://saurabh-portfolio-murex.vercel.app/" style="text-decoration:none">
+    <img src="https://img.shields.io/badge/Portfolio-Check_My_Work-9370DB?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+  <img src="https://img.shields.io/badge/Email-saurabhbisht076@gmail.com-9370DB?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</div>
+
+<br/>
+
+<!-- About Me Section with Animation -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/banner.svg" width="100%">
+</div>
+
+<table border="0">
+  <tr>
+    <td width="50%">
+      <h2>💫 About Me</h2>
+      <ul>
+        <li>🚀 Working on <b>Web Development Projects</b></li>
+        <li>🔍 Exploring <b>AI & ML</b> and <b>Security Practices</b></li>
+        <li>👨‍💻 Love solving complex problems with elegant solutions</li>
+        <li>🌱 Constantly learning and adapting to new technologies</li>
+        <li>🤝 Open to collaborations on innovative tech projects</li>
+        <li>⚡ Fun fact: I love exploring new tech stacks and optimizing user experiences!</li>
+      </ul>
+    </td>
+    <td width="50%">
+      <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="100%" alt="Programmer Animation"/>
+    </td>
+  </tr>
+</table>
+
+<!-- Coding Profiles Section -->
+<h2 align="center">🧑‍💻 Coding Profiles & Achievements</h2>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/LeetCode-Solved_Problems-9370DB?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
+  <img src="https://img.shields.io/badge/HackerRank-3★_SQL-9370DB?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
+  <img src="https://img.shields.io/badge/CodeChef-50+_SQL_Problems-9370DB?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/>
+</div>
+
+<div align="center">
+  <h3>📜 Certifications</h3>
+  <table>
+    <tr>
+      <td align="center">
+        <img width="100" src="https://hrcdn.net/community-frontend/assets/badges/sql_basic-39d3b2d2cf.svg" alt="SQL Basic"/><br />
+        SQL Basic
+      </td>
+      <td align="center">
+        <img width="100" src="https://hrcdn.net/community-frontend/assets/badges/sql_intermediate-5640cf3fe9.svg" alt="SQL Intermediate"/><br />
+        SQL Intermediate
+      </td>
+      <td align="center">
+        <img width="100" src="https://hrcdn.net/community-frontend/assets/badges/problem_solving_basic-21db43c612.svg" alt="Problem Solving"/><br />
+        Problem Solving
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/saurabh121221?theme=dark&font=Nunito&ext=contest" alt="LeetCode Stats" />
+</div>
+
+<!-- Tech Stack Section with Innovative Display -->
+<h2 align="center">🛠️ Tech Stack & Tools</h2>
+
+<div align="center">
+  <!-- Interactive Tech Stack Display -->
+  <table>
+    <tr>
+      <td valign="top" width="33%">
+        <h3 align="center">Frontend</h3>
+        <div align="center">
+          <img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />
+          <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />
+          <img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />
+          <img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />
+          <img src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" />
+        </div>
+      </td>
+      <td valign="top" width="33%">
+        <h3 align="center">Backend</h3>
+        <div align="center">
+          <img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />
+          <img src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" />
+          <img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />
+          <img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />
+          <img src="https://profilinator.rishav.dev/skills-assets/graphql.png" alt="GraphQL" height="50" />
+        </div>
+      </td>
+      <td valign="top" width="33%">
+        <h3 align="center">Languages & Tools</h3>
+        <div align="center">
+          <img src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" />
+          <img src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" />
+          <img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />
+          <img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />
+          <img src="https://profilinator.rishav.dev/skills-assets/vscode-original-wordmark.svg" alt="VS Code" height="50" />
+        </div>
+      </td>
+    </tr>
+  </table>
+  
+  <div align="center">  
+    <img src="https://img.shields.io/badge/Postman-9370DB?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+    <img src="https://img.shields.io/badge/Vercel-9370DB?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
+    <img src="https://img.shields.io/badge/Render-9370DB?style=for-the-badge&logo=render&logoColor=white" alt="Render"/>
+    <img src="https://img.shields.io/badge/JWT-9370DB?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" alt="JWT"/>
+    <img src="https://img.shields.io/badge/GitHub-9370DB?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </div>
+</div>
+
+<!-- GitHub Stats Section with Light Purple Theme -->
+<h2 align="center">📊 GitHub Stats</h2>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saurabhbisht076&theme=tokyonight" alt="GitHub Summary" width="100%" />
+</div>
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=saurabhbisht076&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180em" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=saurabhbisht076&layout=compact&theme=tokyonight" height="180em" alt="Top Languages" />
+</p>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=saurabhbisht076&theme=discord&column=7&margin-w=15&margin-h=15&no-bg=true" alt="GitHub Trophies" width="100%" />
+</div>
+
+<!-- Connect With Me Section -->
+<h2 align="center">🔗 Connect With Me</h2>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/saurabhbisht076" style="text-decoration:none">
+    <img src="https://img.shields.io/badge/LinkedIn-9370DB?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/saurabhbisht076" style="text-decoration:none">
+    <img src="https://img.shields.io/badge/GitHub-9370DB?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <img src="https://img.shields.io/badge/Instagram-9370DB?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  <img src="https://img.shields.io/badge/Pinterest-9370DB?style=for-the-badge&logo=pinterest&logoColor=white" alt="Pinterest" />
+</div>
+
+<!-- Support Section -->
+<h2 align="center">💰 Support My Work</h2>
+
+<div align="center">
+  <a href="https://paypal.me/saurabhbisht076" style="text-decoration:none">
+    <img src="https://img.shields.io/badge/PayPal-9370DB?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal" />
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
+</div>
+
+<!-- Visitor Counter -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=saurabhbisht076&label=Profile%20Views&color=9370DB&style=flat" alt="Profile Views" />
+</div>
+
+<!-- Footer Animation -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/trinib/trinib/snake/github-contribution-grid-snake-dark.svg" width="100%">
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=9370DB&height=100&section=footer" width="100%"/>
+</div>
