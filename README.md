@@ -108,7 +108,6 @@
           <img src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" />
           <img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />
           <img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />
-          <img src="https://profilinator.rishav.dev/skills-assets/vscode-original-wordmark.svg" alt="VS Code" height="50" />
         </div>
       </td>
     </tr>
