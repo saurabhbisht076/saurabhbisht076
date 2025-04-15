@@ -16,9 +16,7 @@
 <br/>
 
 <!-- About Me Section with Animation -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/banner.svg" width="100%">
-</div>
+<!-- Removed potentially problematic image -->
 
 <table border="0">
   <tr>
@@ -53,15 +51,19 @@
   <table>
     <tr>
       <td align="center">
-        <img width="100" src="https://hrcdn.net/community-frontend/assets/badges/sql_basic-39d3b2d2cf.svg" alt="SQL Basic"/><br />
-        SQL Basic
+        <img width="100" src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Cloud-Practitioner_badge.634f8a21af2e0e956ed8905a72366146ba22b74c.png" alt="AWS Cloud Practitioner"/><br />
+        AWS Cloud Practitioner
       </td>
       <td align="center">
-        <img width="100" src="https://hrcdn.net/community-frontend/assets/badges/sql_intermediate-5640cf3fe9.svg" alt="SQL Intermediate"/><br />
+        <img width="100" src="https://img.icons8.com/color/480/null/mongodb.png" alt="MERN Stack"/><br />
+        MERN Stack (Udemy)
+      </td>
+      <td align="center">
+        <img width="100" src="https://img.icons8.com/color/480/null/sql.png" alt="SQL"/><br />
         SQL Intermediate
       </td>
       <td align="center">
-        <img width="100" src="https://hrcdn.net/community-frontend/assets/badges/problem_solving_basic-21db43c612.svg" alt="Problem Solving"/><br />
+        <img width="100" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/96/null/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-shadow-tal-revivo.png" alt="Problem Solving"/><br />
         Problem Solving
       </td>
     </tr>
@@ -116,7 +118,7 @@
     <img src="https://img.shields.io/badge/Postman-9370DB?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
     <img src="https://img.shields.io/badge/Vercel-9370DB?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
     <img src="https://img.shields.io/badge/Render-9370DB?style=for-the-badge&logo=render&logoColor=white" alt="Render"/>
-    <img src="https://img.shields.io/badge/JWT-9370DB?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" alt="JWT"/>
+    <img src="https://img.shields.io/badge/AWS-9370DB?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
     <img src="https://img.shields.io/badge/GitHub-9370DB?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </div>
 </div>
@@ -170,10 +172,6 @@
 </div>
 
 <!-- Footer Animation -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/trinib/trinib/snake/github-contribution-grid-snake-dark.svg" width="100%">
-</div>
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=9370DB&height=100&section=footer" width="100%"/>
 </div>
