@@ -41,9 +41,15 @@
 <h2 align="center">🧑‍💻 Coding Profiles & Achievements</h2>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/LeetCode-Solved_Problems-9370DB?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
-  <img src="https://img.shields.io/badge/HackerRank-3★_SQL-9370DB?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
-  <img src="https://img.shields.io/badge/CodeChef-50+_SQL_Problems-9370DB?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/>
+  <a href="https://leetcode.com/u/saurabh121221/" style="text-decoration:none">
+    <img src="https://img.shields.io/badge/LeetCode-Solved_Problems-9370DB?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
+  </a>
+  <a href="https://www.hackerrank.com/profile/saurabhbisht076" style="text-decoration:none">
+    <img src="https://img.shields.io/badge/HackerRank-3★_SQL-9370DB?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
+  </a>
+  <a href="https://www.codechef.com/users/saurabhb076" style="text-decoration:none">
+    <img src="https://img.shields.io/badge/CodeChef-50+_SQL_Problems-9370DB?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/>
+  </a>
 </div>
 
 <div align="center">
