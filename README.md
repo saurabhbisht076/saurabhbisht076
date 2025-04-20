@@ -52,6 +52,12 @@
   </a>
 </div>
 
+
+<div align="center">
+  <br>
+  <img src="https://leetcard.jacoblin.cool/saurabh121221?theme=dark&font=Nunito&ext=contest" alt="LeetCode Stats" />
+</div>
+
 <div align="center">
   <h3>📜 Certifications</h3>
   <table>
@@ -74,10 +80,6 @@
       </td>
     </tr>
   </table>
-</div>
-
-<div align="center">
-  <img src="https://leetcard.jacoblin.cool/saurabh121221?theme=dark&font=Nunito&ext=contest" alt="LeetCode Stats" />
 </div>
 
 <!-- Tech Stack Section with Innovative Display -->
