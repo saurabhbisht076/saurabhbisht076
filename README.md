@@ -155,7 +155,9 @@
     <img src="https://img.shields.io/badge/GitHub-9370DB?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <img src="https://img.shields.io/badge/Instagram-9370DB?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  <a href = "https://in.pinterest.com/saurabhbisht076" style = "text-decoration:none">
   <img src="https://img.shields.io/badge/Pinterest-9370DB?style=for-the-badge&logo=pinterest&logoColor=white" alt="Pinterest" />
+  </a>
 </div>
 
 <!-- Support Section -->
