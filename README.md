@@ -24,7 +24,7 @@
       <h2>💫 About Me</h2>
       <ul>
         <li>🚀 Working on <b>Web Development Projects</b></li>
-        <li>🔍 Exploring <b>AI & ML</b> and <b>Security Practices</b></li>
+        <li>🔍 Exploring <b>DevOps Engineer</b> and <b>Security Practices</b></li>
         <li>👨‍💻 Love solving complex problems with elegant solutions</li>
         <li>🌱 Constantly learning and adapting to new technologies</li>
         <li>🤝 Open to collaborations on innovative tech projects</li>
