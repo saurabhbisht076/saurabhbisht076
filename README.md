@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=40&duration=4000&pause=1500&color=9370DB&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Saurabh+Bisht" alt="Typing SVG" />
   
   <p align="center" style="font-size:1.2em;">
-    <em>MERN Stack Developer | Problem Solver | Tech Enthusiast</em>
+    <em>Aspiring DevOps Engineer | MERN Stack Developer | Problem Solver | Tech Enthusiast</em>
   </p>
   
   <br/>
@@ -24,7 +24,7 @@
       <h2>💫 About Me</h2>
       <ul>
         <li>🚀 Working on <b>Web Development Projects</b></li>
-        <li>🔍 Exploring <b>DevOps Engineer</b> and <b>Security Practices</b></li>
+        <li>🔍 Exploring <b>DevOps</b> and <b>Security Practices</b></li>
         <li>👨‍💻 Love solving complex problems with elegant solutions</li>
         <li>🌱 Constantly learning and adapting to new technologies</li>
         <li>🤝 Open to collaborations on innovative tech projects</li>
